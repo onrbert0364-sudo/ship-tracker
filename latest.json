@@ -1,1 +1,10 @@
-latest.json
+{
+  "ship": "The World",
+  "lastPort": "TBD",
+  "departureTime": "2025-07-20T12:00:00Z",
+  "currentPosition": { "lat": 0, "lon": 0 },
+  "nextPort": "TBD",
+  "eta": "2025-07-21T12:00:00Z",
+  "seaDays": 1,
+  "lastUpdated": "2025-08-12T09:00:00Z"
+}
